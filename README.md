@@ -56,4 +56,4 @@ npm run dev
 - `src/presentation/services/github.service.ts`: Formats GitHub event messages.
 - `src/presentation/services/discord.service.ts`: Sends messages to Discord.
 - `src/interfaces/`: TypeScript interfaces for GitHub payloads.
-- `src
+- `src/config/`: Loads environment variables.
